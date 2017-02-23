@@ -22,6 +22,8 @@ npm i
 #### First run? 
 Select "prospect source: setup and run" from the cmd dropdown and pres play (the triangle looking thing). 
 
+For more infor on Codenvy, check this out: [https://codenvy.com/product/next-generation/](https://codenvy.com/product/next-generation/)
+
 ## Deploy to gh-pages: 
 
 [ http://joshmccall221.github.io/prospect-source/](http://joshmccall221.github.io/prospect-source/)
