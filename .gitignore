@@ -2,8 +2,9 @@
 # Directories
 #---------------------------------
 **/node_modules/
-target/
+target/*
 tmp/
+dist/
 
 
 #---------------------------------
