@@ -16,3 +16,11 @@ nvm i 6 && \
 nvm use 6 && \
 npm i
 ```
+
+## Deploy to gh-pages: 
+
+[ http://joshmccall221.github.io/prospect-source/](http://joshmccall221.github.io/prospect-source/)
+
+```
+npm run gh-pages
+```
