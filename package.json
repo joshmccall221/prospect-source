@@ -8,7 +8,8 @@
     "postinstall": "npm run build",
     "build": "npm test && webpack",
     "watch": "webpack -w",
-    "test": "mocha test --recursive"
+    "test": "mocha test --recursive",
+    "gh-pages": "rimraf ./dist/ && npm run build && cp ./example/index.html ./dist/ && cd ./dist && git init && git commit --allow-empty -m 'Update docs and examples' && git checkout -b gh-pages && git  add . && git commit -am 'Update docs and examples' && git push https://github.com/joshmccall221/prospect-source.git gh-pages --force"
   },
   "repository": {
     "type": "git",
@@ -37,6 +38,7 @@
     "react": "^15.4.2",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.2",
+    "rimraf": "^2.6.0",
     "webpack": "^2.2.1"
   }
 }

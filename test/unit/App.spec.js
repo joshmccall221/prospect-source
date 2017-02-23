@@ -17,6 +17,6 @@ describe('App tests', () => {
     });
 
     it('should have the text "hello, moon"', () => {
-        expect(element.text()).to.equal("hello, moon");
+        expect(element.text()).to.equal("hello, moon and stars!!!");
     })
 });
