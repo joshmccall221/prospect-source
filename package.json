@@ -4,6 +4,8 @@
   "description": "Prospect Source project",
   "main": "index.js",
   "scripts": {
+    "setup": "nvm i 6; nvm use 6",
+    "postinstall": "npm run build",
     "build": "npm test && webpack",
     "watch": "webpack -w",
     "test": "mocha test --recursive"
