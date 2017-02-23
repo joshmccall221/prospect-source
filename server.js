@@ -1,6 +1,6 @@
 var express = require('express'),
   app = express(),
-  port = 8150;
+  port = 3000;
 
 app.get('/', (req, res) => {
   res.sendFile('./example/index.html', {root: __dirname});
