@@ -22,10 +22,9 @@ npm i
 #### First run? 
 Select **"prospect source: setup and run"** from the cmd dropdown and pres play (the triangle looking thing). 
 
+#### Further reading: 
 For more infor on Codenvy, check this out: 
-
-
-  [https://codenvy.com/product/next-generation/](https://codenvy.com/product/next-generation/)
+>>[https://codenvy.com/product/next-generation/](https://codenvy.com/product/next-generation/)
 
 ## Deploy to gh-pages: 
 
