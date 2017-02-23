@@ -20,9 +20,10 @@ npm i
 [https://codenvy.io/f?name=ProspectSource&user=joshmccall221](https://codenvy.io/f?name=ProspectSource&user=joshmccall221)
 
 #### First run? 
-Select "prospect source: setup and run" from the cmd dropdown and pres play (the triangle looking thing). 
+Select **"prospect source: setup and run"** from the cmd dropdown and pres play (the triangle looking thing). 
 
-For more infor on Codenvy, check this out: [https://codenvy.com/product/next-generation/](https://codenvy.com/product/next-generation/)
+For more infor on Codenvy, check this out: 
+  [https://codenvy.com/product/next-generation/](https://codenvy.com/product/next-generation/)
 
 ## Deploy to gh-pages: 
 
