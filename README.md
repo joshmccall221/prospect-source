@@ -17,7 +17,7 @@ nvm use 6 && \
 npm i
 ```
 ### Codenvy.com
-[https://codenvy.io/f?name=ProspectSource&user=joshmccall221](https://codenvy.io/f?name=ProspectSource&user=joshmccall221)
+[https://codenvy.io/f?name=ProspectSrource&user=joshmccall221](https://codenvy.io/f?name=ProspectSrource&user=joshmccall221)
 
 #### First run? 
 Select **"prospect source: setup and run"** from the cmd dropdown and pres play (the triangle looking thing). 
